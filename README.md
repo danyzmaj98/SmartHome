@@ -1,5 +1,5 @@
 # SmartHome
-<h5>SmartHome mobile application created in Flutter to control home devices.</h5>
+SmartHome mobile application created in Flutter to control home devices.
 <br>
 <br>
 <p align="center">
